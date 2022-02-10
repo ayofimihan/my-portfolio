@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  background: var(--BgColor);
+}
+.maniac {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+:root {
+  --BgColor: #141514;
+}
